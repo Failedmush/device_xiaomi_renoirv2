@@ -17,8 +17,8 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := renoir
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_MODEL := M2101K9G
-PRODUCT_NAME := aosp_renoir
+PRODUCT_MODEL := M2101K9R
+PRODUCT_NAME := lineage_renoir
 
 PRODUCT_SYSTEM_NAME := renoir_global
 PRODUCT_SYSTEM_DEVICE := renoir
