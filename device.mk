@@ -4,8 +4,8 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from sm8350-common
-$(call inherit-product, device/xiaomi/sm8350-common/common.mk)
+# Inherit from sm7350-common
+$(call inherit-product, device/xiaomi/sm7350-common/common.mk)
 
 # Audio
 PRODUCT_COPY_FILES += \
