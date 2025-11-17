@@ -6,7 +6,7 @@
 
 DEVICE_PATH := device/xiaomi/renoir
 
-# Inherit from sm7350-common
+# Inherit from sm8350-common
 include device/xiaomi/sm8350-common/BoardConfigCommon.mk
 
 # Board
